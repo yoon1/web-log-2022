@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Yoon\'s web blog',
+  title: 'Yoon\'s web log',
   author: 'yoon',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  headerTitle: 'Yoon\'s web log',
+  description: '',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
@@ -10,13 +10,13 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',  // y 
-  twitter: 'https://twitter.com/Twitter', // x
-  facebook: 'https://facebook.com', // x
-  youtube: 'https://youtube.com', // x
-  linkedin: 'https://www.linkedin.com', // x
-  locale: 'en-US', // x
+  email: 'aksemfdjwnj@gmail.com',
+  github: 'https://github.com/yoon1',
+  twitter: '', // x
+  facebook: '', // x
+  youtube: '', // x
+  linkedin: '', // x
+  locale: 'ko-KR', // x
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
